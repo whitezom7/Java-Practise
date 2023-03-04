@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java-Practise.iml" filepath="$PROJECT_DIR$/Java-Practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurrencyConveter.iml" filepath="$PROJECT_DIR$/CurrencyConveter.iml" />
     </modules>
   </component>
 </project>
