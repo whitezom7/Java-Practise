@@ -1,5 +1,3 @@
-import java.util.Currency;
-import java.util.Objects;
 import java.util.Scanner;
 
 
